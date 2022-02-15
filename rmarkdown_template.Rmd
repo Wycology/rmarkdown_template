@@ -40,7 +40,7 @@ knitr::write_bib(c(
 # Background
 
 ```{r}
-plot(iri
+plot(i
 ```
 
 
