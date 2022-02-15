@@ -39,9 +39,7 @@ knitr::write_bib(c(
 
 # Background
 
-```{r}
 
-```
 
 
 
