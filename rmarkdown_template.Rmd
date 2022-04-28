@@ -39,6 +39,8 @@ knitr::write_bib(c(
 
 # Background
 
+Here we give a bit of information about the topic under discussion.
+
 ## |- This is a sub-heading ####
 
 
