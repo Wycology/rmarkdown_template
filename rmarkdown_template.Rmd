@@ -41,7 +41,7 @@ knitr::write_bib(c(
 
 Here we highlight a bit of information about the topic under discussion.
 
-## |- This is an sub-heading ####
+## |- This is ano sub-heading ####
 
 Another bit of information that should fall under some bit of sub-heading.
 
