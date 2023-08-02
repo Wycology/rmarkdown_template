@@ -1,6 +1,6 @@
 ---
 title: "<center>**... in R**</center>"
-author: "<center>Wyclife Agumba Oluoch (wyclifeoluoch@gmail.com) </center>"
+author: "<center>Wyclife Agumba Oluoch (wyclifeoluoch@gmail.com) </cente"
 date: "<center>`r Sys.time()`</center>"
 bibliography: 
   - bib/packages.bib
@@ -12,12 +12,12 @@ output:
     toc_float: true
     theme: darkly
     #highlight: pygments
+#bibliography: references.bib
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
 
 ```{r libs, echo=FALSE, warning=FALSE, message=FALSE, include=FALSE}
 packages <- c("base",
@@ -39,11 +39,10 @@ knitr::write_bib(c(
 
 # Background
 
-Here we highlight a bit of information about the topic under discussion.
+Here we highlight a bit of information about the topic under discussion. And it is also super simple to add citation [@stave2006]!
 
-## |- This is a sub-heading drawing from above heading ####
+## \|- This is a sub-heading drawing from above heading
 
 Another bit of information that should fall under some bit of sub-heading.
 
-All the cited literature sources should then be under References below:
-# References
+All the cited literature sources should then be under References below: \# References
