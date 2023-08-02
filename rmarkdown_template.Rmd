@@ -1,5 +1,5 @@
 ---
-title: "<c**... in R**"
+title: "**... in R**"
 author: "Wyclife Agumba Oluoch (wyclifeoluoch@gmail.com)"
 date: "<center>`r Sys.time()`</center>"
 bibliography: 
