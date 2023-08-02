@@ -1,6 +1,6 @@
 ---
 title: "<center>**... in R**</center>"
-author: "<center>Wyclife Agumba Oluoch (wyclifeoluoch@gmail.com) </c"
+author: "<center>Wyclife Agumba Oluoch (wyclifeoluoch@gmail.com) <"
 date: "<center>`r Sys.time()`</center>"
 bibliography: 
   - bib/packages.bib
