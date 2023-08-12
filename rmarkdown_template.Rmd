@@ -20,8 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r libs, echo=FALSE, warning=FALSE, message=FALSE, include=FALSE}
-packages <- c("base",
-'knitr',
+packages <- c("base",'knitr',
               'rmarkdown',
               'prettydoc')
 installed_packages <- packages %in% rownames(installed.packages())
